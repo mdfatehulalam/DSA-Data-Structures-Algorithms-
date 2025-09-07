@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -23,4 +25,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
