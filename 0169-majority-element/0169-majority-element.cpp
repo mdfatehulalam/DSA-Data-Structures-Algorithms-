@@ -1,17 +1,14 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+        // most optimized method which is Moore Voting Algorithm and its tc is O(n)
         int n = nums.size();
-        for(int j=0;j<n;j++){
-             int fre = 0;
-            for(int i=0;i<n;i++){
-                if(nums[j]==nums[i]) fre++;
-            }
-        if(fre>(n/2)){
-            return nums[j];
-        } 
+        int fre = 0; int ans = 0;
+        for(int i=0;i<n;i++){
+            if(fre == 0) ans = nums[i];
+            if(ans == nums[i]) fre++;
+            else fre--;              
         }
-    return 0;
-        
+        return ans;
     }
 };
