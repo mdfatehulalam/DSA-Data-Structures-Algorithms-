@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
+        // most optimized method which tc is O(n)
         int n = nums.size();
         vector<int> ans(n,1);
         for(int i=1; i<n; i++){
