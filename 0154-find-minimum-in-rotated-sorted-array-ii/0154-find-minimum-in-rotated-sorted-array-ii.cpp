@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums) {
+    int findMin(vector<int>& nums){
         // using binary search but its tc in average case O(logn) and worst case O(n) depends on given array
         int st = 0;int end = nums.size()-1;
         while(st<end){
