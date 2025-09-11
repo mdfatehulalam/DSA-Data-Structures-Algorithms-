@@ -1,6 +1,7 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
+        // most optimized method which time complexity is O(logn)
         int st = 0;
         int end = nums.size()-1;
         while(st<=end){
