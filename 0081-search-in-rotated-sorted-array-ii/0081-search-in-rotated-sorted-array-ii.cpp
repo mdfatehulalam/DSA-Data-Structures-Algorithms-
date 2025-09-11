@@ -6,7 +6,7 @@ public:
         while (st <= end) {
             int mid = st + (end - st) / 2;
             if (nums[mid] == target) return true;
-
+            // for duplicate handling
             if (nums[st] == nums[mid] && nums[end] == nums[mid]) {
                 st++;
                 end--;
