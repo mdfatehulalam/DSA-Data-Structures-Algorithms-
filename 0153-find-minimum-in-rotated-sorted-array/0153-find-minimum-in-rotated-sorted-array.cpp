@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int findMin(const vector<int>& nums){
+    int findMin(vector<int>& nums){
         // using binary search which tc is O(logn)
         int st = 0;int end = nums.size()-1;
         while(st<end){
