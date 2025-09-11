@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool search(vector<int>& nums, int target) {
+    bool search(vector<int>& nums, int target){
         // using binary search but its tc in average case O(logn) and worst case O(n) depends on given array
         int st = 0, end = nums.size() - 1;
         while (st <= end) {
