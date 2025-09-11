@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0136-single-number) |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
