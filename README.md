@@ -16,6 +16,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0238-product-of-array-except-self) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,5 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/mdfatehulalam/DSA-Data-Structures-Algorithms-/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
