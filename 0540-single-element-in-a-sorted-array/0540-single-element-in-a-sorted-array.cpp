@@ -1,6 +1,7 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& arr) {
+        // using binary search its tc is O(logn)
         int n = arr.size();
         if(n == 1) return arr[0];
 
