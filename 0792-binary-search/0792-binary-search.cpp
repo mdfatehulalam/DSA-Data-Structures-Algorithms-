@@ -1,6 +1,7 @@
 class Solution {
 public:
     int search(vector<int>& arr, int target) {
+        // its tc is O(logn)
         int n = arr.size();
         int st = 0; int end = n-1;
         while(st<=end){
